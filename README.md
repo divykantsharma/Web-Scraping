@@ -1,4 +1,4 @@
-# Web-Scrapinghttps://github.com/divykantsharma/Web-Scraping/blob/main/README.md
+# Web-Scraping
 Web scraping of website "Code with Harry" is performed using the inbuilt module - Beautiful Soup in Python.
 
 ## What is Web Scraping ?
